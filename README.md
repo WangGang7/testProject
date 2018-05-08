@@ -1,2 +1,2 @@
 # testProject
-this is a git test project
+hi, guys! this is a git test project
